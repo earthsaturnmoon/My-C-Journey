@@ -1,0 +1,3 @@
+--- Saved Monster Army ---
+Monster 1: Grumble | Power: 100
+Monster 2: Sparky | Power: 200
