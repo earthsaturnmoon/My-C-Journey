@@ -1,9 +1,7 @@
-/* 3. The Binary Spy: 
-Create an integer variable. 
-Use a loop and bitwise operators (& and >>) to print its binary representation 
-(e.g., 5 becomes 00000101). No if statements allowed. */
-
-
+                                                /* 3. The Binary Spy: 
+                                                Create an integer variable. 
+                                                Using a loop and bitwise operators (& and >>) to print its binary representation 
+                                                (e.g., 5 becomes 00000101). No if statements allowed. */
 #include <stdio.h>
 
 int main() {
